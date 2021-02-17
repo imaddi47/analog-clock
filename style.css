@@ -62,7 +62,7 @@ div.clock div.s-hand{
 div.clock div.m-hand{
     width: calc(50% - 15px);
     background-color: #000000;
-}git a
+}
 div.clock div.h-hand{
     width: calc(50% - 40px);
     background-color: #000000;
